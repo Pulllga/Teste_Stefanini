@@ -1,0 +1,54 @@
+﻿.ColToRight {
+    width:20% !important;
+    text-align:right !important;
+}
+
+.ColToLeft {
+    width: 20% !important;
+    text-align:left !important;
+}
+
+.ui-datepicker {
+    /*font-size: 5%;*/
+    background-color: white;
+    border-color: lightgray;
+    border-style: solid;
+    border-width: thin;
+    padding: 5px;
+}
+
+.ui-datepicker-header {
+    background-color: dimgray;
+    padding: 5px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: lightgray;
+    border-bottom-style: solid;
+    color: white;
+}
+
+.ui-datepicker-prev {
+    float:left;
+}
+
+.ui-datepicker-next {
+    float: right;
+}
+
+.ui-datepicker-calendar {
+    background-color: lightcyan;
+}
+
+.tablehead {
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+.cellborder {
+    border-left-width: 1px;
+    border-left-color: lightgray;
+    border-left-style: solid;
+    border-right-width: 1px;
+    border-right-color: lightgray;
+    border-right-style: solid;
+}
